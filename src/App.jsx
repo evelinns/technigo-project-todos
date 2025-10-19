@@ -1,3 +1,7 @@
 export const App = () => {
-  return <div>Find me in App.jsx!</div>
+  return (
+    <div>
+      <h1>ToDo List</h1>
+    </div>
+  )
 }
